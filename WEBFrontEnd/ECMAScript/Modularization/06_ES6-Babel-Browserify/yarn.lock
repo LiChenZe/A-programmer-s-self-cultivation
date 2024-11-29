@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@babel/preset-stage-0@^7.8.3":
+  version "7.8.3"
+  resolved "https://registry.yarnpkg.com/@babel/preset-stage-0/-/preset-stage-0-7.8.3.tgz#b6a0eca1a3b72e07f9caf58f998e97568028f6f5"
+  integrity sha512-+l6FlG1j73t4wh78W41StbcCz0/9a1/y+vxfnjtHl060kSmcgMfGzK9MEkLvrCOXfhp9RCX+d88sm6rOqxEIEQ==
+
 ansi-regex@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-2.1.1.tgz#c3b33ab5ee360d86e0e628f0468ae7ef27d654df"
@@ -737,6 +742,11 @@ invariant@^2.2.2:
   dependencies:
     loose-envify "^1.0.0"
 
+jquery@^3.5.1:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
+  integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
+
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
@@ -753,9 +763,9 @@ jsesc@~0.5.0:
   integrity sha1-597mbjXW/Bb3EP6R1c9p9w8IkR0=
 
 lodash@^4.17.4:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0:
   version "1.4.0"
